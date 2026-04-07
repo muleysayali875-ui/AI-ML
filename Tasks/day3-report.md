@@ -21,10 +21,10 @@ The following tasks were completed today:
 
 # Debugging Log
   - Error 1: 'jupyter' is not recognized as an internal or external command
-    Solution: Identified it as a PATH issue. Resolved it by running Jupyter using python -m notebook,  which bypasses the PATH dependency.
+  - Solution: Identified it as a PATH issue. Resolved it by running Jupyter using python -m notebook,  which bypasses the PATH dependency.
 
   - Error 2: "Failed to fetch" error while creating a new notebook
-    Solution: Restarted the Jupyter server and installed the kernel using python -m ipykernel install --user. After restarting, the notebook was created successfully.
+  - Solution: Restarted the Jupyter server and installed the kernel using python -m ipykernel install --user. After restarting, the notebook was created successfully.
 
 # Key Insights
 
