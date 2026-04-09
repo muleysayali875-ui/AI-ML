@@ -7,7 +7,7 @@ Today, I worked on Data Pre-processing, specifically focusing on Data Imputation
      - Used isnull().sum() to detect missing values
      - Used fillna() to replace missing values
      - Filled missing Age with mean and Score with default value (0)
-  - Implemented feature scaling using MinMaxScaler (Scikit-learn)
+  - Implemented feature scaling usxing MinMaxScaler (Scikit-learn)
      - Normalized values between 0 and 1
      - Ensured all features contribute equally to the model
   - Performed data visualization using Seaborn and Matplotlib
