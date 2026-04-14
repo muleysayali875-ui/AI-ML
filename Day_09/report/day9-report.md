@@ -21,7 +21,7 @@ The objective of Day 9 was to improve model performance by optimizing its hyperp
 
 ## Results
 - Default Model (alpha = 1.0): R² Score = 0.5758157428913686
-- Optimized Model (Best Alpha = 10.0 ): R² Score = 0.6055
+- Optimized Model (Best Alpha = 10.0 ): R² Score = 0.6003
 - The optimized model performed better (or more consistently) than the default model, demonstrating the importance of hyperparameter tuning.
 
 ## Conclusion
