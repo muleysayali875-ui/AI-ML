@@ -3,7 +3,7 @@ import pandas as pd
 
 # 1. Load the dataset
 data = fetch_california_housing()
-df = pd.DataFrame(data.data, columns=data.f25eature_names)
+df = pd.DataFrame(data.data, columns=data.feature_names)
 df['MedHouseVal'] = data.target # This is our 'y' (Price in $100,000s)
 
 print("Dataset Overview:")
